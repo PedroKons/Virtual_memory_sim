@@ -1,0 +1,16 @@
+ Plano Geral (Etapas)
+[✔️] Parte 1 – Ler endereços e calcular página/deslocamento
+
+[✔️] Parte 2 – Simular Tabela de Páginas com bits (valid, accessed, dirty)
+
+[✔️] Parte 3 – Simular Page Faults e carregar da backing store
+
+[✔️] Parte 4 – Implementar TLB com política LRU (16 entradas)
+
+[✔️] Parte 5 – Leitura real da memória (data_memory.txt)
+
+[✔️] Parte 6 – Adicionar suporte a hexadecimal e tratamento de erros
+
+[🔜] Parte 7 – Criar relatório com resultados e testes
+
+[🔜] Parte 8 – Apresentação final com argumentos e explicações
